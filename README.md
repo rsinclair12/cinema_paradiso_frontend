@@ -12,7 +12,11 @@ Check out [FRONTEND LIVE DEMO](https://cinemaparadisofrontend.rsinclair12.repl.c
 
 ## Screenshots
 ![Screenshot 2023-02-17 at 8 00 04 AM](https://user-images.gith![Screenshot 2023-02-17 at 8 01 35 AM](https://user-images.githubusercontent.com/97200801/219534657-1263209a-f322-48ac-80fc-e80cbd589d08.png)
-ubusercontent.com/97200801/219534480-9d79ce0a-725f-45a9-aa8c-96eaed26b863.png)
+![Screenshot 2023-02-17 at 8 03 24 AM](https://user-images.githubusercontent.com/97200801/219534905-888c8da3-65fd-4cbb-974b-b77736ee3473.png)
+![Screenshot 2023-02-17 at 8 03 56 AM](https://user-images.githubusercontent.com/97200801/219534984-8b341f1e-bf4f-49d3-8ef3-fb2ef080cc7c.png)
+
+
+
 
 
 ```
