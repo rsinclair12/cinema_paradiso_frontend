@@ -10,6 +10,10 @@ movies in a single click.
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 Check out [FRONTEND LIVE DEMO](https://cinemaparadisofrontend.rsinclair12.repl.co) here!!
 
+## Screenshot
+![Screenshot 2023-02-17 at 8 00 04 AM](https://user-images.githubusercontent.com/97200801/219534480-9d79ce0a-725f-45a9-aa8c-96eaed26b863.png)
+
+
 ```
 * Frontend : React & Redux
 ```
